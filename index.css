@@ -1,0 +1,123 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+
+
+.containeer {
+  background-color: #9a009a;
+  height: 95vh;
+}
+
+.container p {
+  text-align: center;
+  padding-top: 25%;
+  font-size: 2vw;
+}
+.tm-trending {
+  max-width: 57vw;
+  text-align: center;
+  margin-left: 20.5%;
+}
+.masonry-with-columns-2 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-wrap: wrap;
+  -ms-flex-wrap: wrap;
+  flex-wrap: wrap; }
+  .masonry-with-columns-2 div {
+    height: 150px;
+    line-height: 150px;
+    /* background: #9B1B30; */
+    color: white;
+    margin: 0 1rem 1rem 0;
+    text-align: center;
+    font-weight: 900;
+    font-size: 2rem;
+    -webkit-box-flex: 1;
+    -webkit-flex: 1 0 auto;
+    -ms-flex: 1 0 auto;
+    flex: 1 0 auto; }
+  .masonry-with-columns-2 div:nth-child(1) {
+    width: 222px; }
+  /* .masonry-with-columns-2 div:nth-child(2) {
+    width: 102px; } */
+  /* .masonry-with-columns-2 div:nth-child(3) {
+    width: 155px; } */
+  .masonry-with-columns-2 div:nth-child(4) {
+    width: 365px; }
+  .masonry-with-columns-2 div:nth-child(5) {
+    width: 132px; }
+  /* .masonry-with-columns-2 div:nth-child(6) {
+    width: 106px; } */
+  .masonry-with-columns-2 div:nth-child(7) {
+    width: 199px; }
+  /* .masonry-with-columns-2 div:nth-child(8) {
+    width: 164px; } */
+  .masonry-with-columns-2 div:nth-child(9) {
+    width: 424px; }
+  .masonry-with-columns-2 div:nth-child(10) {
+    width: 467px; }
+  .masonry-with-columns-2 div:nth-child(11) {
+    width: 350px; }
+  /* .masonry-with-columns-2 div:nth-child(12) {
+    width: 168px; } */
+  .masonry-with-columns-2 div:nth-child(13) {
+    width: 296px; }
+  .masonry-with-columns-2 div:nth-child(14) {
+    width: 440px; }
+
+#masonry-with-columns-2>.A>img {
+    height: 150px;
+    width: 222px;
+    margin: 0 1rem 1rem 0;
+}
+
+#masonry-with-columns-2>.B>img {
+    height: 150px;
+    width: 365px;
+}
+
+#masonry-with-columns-2>.C>img {
+    height: 150px;
+    width: 332px;
+}
+
+#masonry-with-columns-2>.D>img {
+    height: 150px;
+    width: 199px;
+}
+
+#masonry-with-columns-2>.E>img {
+    height: 150px;
+    width: 424px;
+}
+
+#masonry-with-columns-2>.F>img {
+    height: 150px;
+    width: 467px;
+}
+
+#masonry-with-columns-2>.G>img {
+    height: 150px;
+    width: 350px;
+}
+
+#masonry-with-columns-2>.H>img {
+    height: 150px;
+    width: 296px;
+}
+
+#masonry-with-columns-2>.I>img {
+    height: 150px;
+    width: 440px;
+}
+
+#masonry-with-columns-2>.J>img {
+    height: 150px;
+    width: 440px;
+}
